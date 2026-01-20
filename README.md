@@ -20,10 +20,6 @@
 
 <h1 align="center">Hi 👋, I'm Man</h1>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 <br>
 
 <div align="center">
